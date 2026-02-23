@@ -1,0 +1,8 @@
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY=hematovision-secret-key-2026
+MODEL_PATH=models/EfficientNetB0_best.h5
+UPLOAD_FOLDER=uploads
+MAX_FILE_SIZE=16777216
+HOST=0.0.0.0
+PORT=5000
